@@ -1,0 +1,38 @@
+.container{
+    position:absolute;
+    top: 42px;
+    left: 300px;
+    right:300px;
+    width: 830px;
+    height: 30px;
+}
+body{
+    background-color: black;
+}
+.carousel {
+    position: relative;
+    top: 100px;
+    left: 315px;
+    width:800px;
+    height:250px;
+}
+.carousel-indicators{
+    position: absolute;
+    top: 490px;
+}
+.carousel-control-next{
+    position: absolute;
+    top: 260px;
+}
+.carousel-control-prev{
+    position: absolute;
+    top: 260px;
+}
+.input-group{
+    position:ablolute;
+    right: -170px;
+    width: 300px;
+}
+.btn btn-outline-primary{
+    background-color: blue;
+}
